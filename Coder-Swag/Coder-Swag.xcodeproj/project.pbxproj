@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E3477CA020F415280083356C /* ProductCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3477C9F20F415280083356C /* ProductCell.swift */; };
+		E3477CA220F5C7F60083356C /* Products.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3477CA120F5C7F60083356C /* Products.swift */; };
 		E38FBCA620F2CC3F00F2B0B9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E38FBCA520F2CC3F00F2B0B9 /* AppDelegate.swift */; };
 		E38FBCA820F2CC3F00F2B0B9 /* CategoriesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E38FBCA720F2CC3F00F2B0B9 /* CategoriesVC.swift */; };
 		E38FBCAB20F2CC3F00F2B0B9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E38FBCA920F2CC3F00F2B0B9 /* Main.storyboard */; };
@@ -39,6 +40,7 @@
 
 /* Begin PBXFileReference section */
 		E3477C9F20F415280083356C /* ProductCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCell.swift; sourceTree = "<group>"; };
+		E3477CA120F5C7F60083356C /* Products.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Products.swift; sourceTree = "<group>"; };
 		E38FBCA220F2CC3F00F2B0B9 /* Coder-Swag.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Coder-Swag.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E38FBCA520F2CC3F00F2B0B9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E38FBCA720F2CC3F00F2B0B9 /* CategoriesVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoriesVC.swift; sourceTree = "<group>"; };
@@ -148,6 +150,7 @@
 			isa = PBXGroup;
 			children = (
 				E3CF4BA420F3ECE2000634C8 /* Category.swift */,
+				E3477CA120F5C7F60083356C /* Products.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -303,6 +306,7 @@
 				E38FBCA820F2CC3F00F2B0B9 /* CategoriesVC.swift in Sources */,
 				E38FBCA620F2CC3F00F2B0B9 /* AppDelegate.swift in Sources */,
 				E3CF4BA320F3E668000634C8 /* CategoryCell.swift in Sources */,
+				E3477CA220F5C7F60083356C /* Products.swift in Sources */,
 				E3477CA020F415280083356C /* ProductCell.swift in Sources */,
 				E3CF4BA520F3ECE2000634C8 /* Category.swift in Sources */,
 				E3CF4BA820F3F1E7000634C8 /* DataService.swift in Sources */,
